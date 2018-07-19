@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A36-A42
 zone A45-A45
 zone A73-A87
@@ -103,3 +104,4 @@ zone B2189-B2189
 zone B2192-B2192
 zone B2256-B2256
 zone B2258-B2259
+fit

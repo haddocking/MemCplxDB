@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A124-A135
 zone A249-A258
 zone A277-A284
@@ -41,3 +42,4 @@ zone B594-B623
 zone B627-B628
 zone B632-B640
 zone B642-B642
+fit

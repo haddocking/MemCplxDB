@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A63-A72
 zone A75-A75
 zone A123-A143
@@ -15,3 +16,4 @@ zone B71-B71
 zone B73-B76
 zone B96-B96
 zone B98-B110
+fit

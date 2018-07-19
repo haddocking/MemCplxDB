@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A4-A5
 zone A8-A9
 zone A12-A12
@@ -102,3 +103,4 @@ zone B1441-B1441
 zone B1445-B1445
 zone B1448-B1448
 zone B1453-B1453
+fit

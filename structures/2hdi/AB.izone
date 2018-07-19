@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A80-A86
 zone A95-A98
 zone A110-A118
@@ -23,3 +24,4 @@ zone B341-B341
 zone B344-B345
 zone B348-B370
 zone B373-B373
+fit

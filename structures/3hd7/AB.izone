@@ -1,2 +1,4 @@
+atoms C,CA,N,O
 zone A95-A114
 zone B266-B283
+fit

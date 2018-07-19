@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A2-A5
 zone A8-A8
 zone A12-A12
@@ -17,3 +18,4 @@ zone F3-F7
 zone F26-F36
 zone F46-F53
 zone F73-F84
+fit

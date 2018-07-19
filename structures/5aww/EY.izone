@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone E24-E57
 zone E59-E60
 zone Y1-Y9
@@ -21,3 +22,4 @@ zone Y400-Y417
 zone Y420-Y420
 zone Y1068-Y1068
 zone Y1072-Y1072
+fit

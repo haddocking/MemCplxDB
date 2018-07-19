@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A12-A13
 zone A16-A16
 zone A18-A18
@@ -17,3 +18,4 @@ zone S1008-S1009
 zone S1173-S1192
 zone S1196-S1196
 zone S1198-S1215
+fit

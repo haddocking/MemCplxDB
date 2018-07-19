@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A50-A55
 zone A57-A58
 zone A60-A62
@@ -73,3 +74,4 @@ zone B317-B317
 zone B348-B393
 zone B396-B426
 zone B428-B448
+fit

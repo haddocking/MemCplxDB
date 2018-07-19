@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone S10-S49
 zone S52-S53
 zone S56-S83
@@ -21,3 +22,4 @@ zone T150-T176
 zone T178-T179
 zone T188-T232
 zone T234-T234
+fit

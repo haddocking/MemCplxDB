@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A11-A11
 zone A13-A13
 zone A43-A43
@@ -22,3 +23,4 @@ zone F1112-F1112
 zone F1114-F1114
 zone F1182-F1213
 zone F1286-F1296
+fit

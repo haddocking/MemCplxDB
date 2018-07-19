@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A28-A28
 zone A31-A49
 zone A51-A56
@@ -11,3 +12,4 @@ zone B238-B238
 zone B249-B260
 zone B281-B288
 zone B300-B319
+fit

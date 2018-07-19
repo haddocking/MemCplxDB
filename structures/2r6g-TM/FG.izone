@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone F16-F16
 zone F26-F46
 zone F49-F49
@@ -33,3 +34,4 @@ zone G236-G236
 zone G245-G247
 zone G249-G255
 zone G257-G296
+fit

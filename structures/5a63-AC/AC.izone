@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A666-A698
 zone C2-C28
 zone C31-C31
@@ -15,3 +16,4 @@ zone C176-C176
 zone C218-C218
 zone C222-C222
 zone C225-C244
+fit

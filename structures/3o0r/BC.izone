@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone B167-B180
 zone B183-B184
 zone B187-B187
@@ -10,3 +11,4 @@ zone B233-B273
 zone B275-B276
 zone B279-B280
 zone C5-C40
+fit

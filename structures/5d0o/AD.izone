@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A33-A45
 zone A49-A49
 zone A68-A72
@@ -29,3 +30,4 @@ zone D173-D174
 zone D176-D201
 zone D203-D205
 zone D225-D225
+fit

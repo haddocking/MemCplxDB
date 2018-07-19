@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A188-A191
 zone A295-A305
 zone A307-A308
@@ -32,3 +33,4 @@ zone C122-C130
 zone C133-C134
 zone C137-C137
 zone C140-C140
+fit

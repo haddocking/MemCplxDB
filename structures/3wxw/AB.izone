@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A100-A116
 zone A122-A138
 zone A141-A141
@@ -14,3 +15,4 @@ zone B1048-B1056
 zone B1066-B1068
 zone B1071-B1071
 zone B1089-B1097
+fit

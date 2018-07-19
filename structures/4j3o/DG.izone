@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone D125-D126
 zone D143-D151
 zone D159-D167
@@ -48,3 +49,4 @@ zone G89-G103
 zone G105-G127
 zone G130-G144
 zone G1001-G1012
+fit

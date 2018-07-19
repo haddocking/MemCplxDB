@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A13-A56
 zone A62-A91
 zone A97-A97
@@ -18,3 +19,4 @@ zone B548-B548
 zone B551-B557
 zone B562-B588
 zone B677-B720
+fit

@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A22-A28
 zone A30-A33
 zone A35-A36
@@ -23,3 +24,4 @@ zone B185-B193
 zone B195-B214
 zone B217-B217
 zone B232-B233
+fit

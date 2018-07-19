@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A20-A20
 zone A23-A40
 zone A43-A43
@@ -17,3 +18,4 @@ zone H3-H7:F3-F7
 zone H26-H36:F26-F36
 zone H46-H53:F46-F53
 zone H73-H85:F73-F85
+fit

@@ -1,3 +1,5 @@
+atoms C,CA,N,O
 zone A966-A990
 zone B693-B716
 zone B719-B719
+fit

@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A29-A35
 zone A47-A47
 zone A49-A63
@@ -17,3 +18,4 @@ zone C3053-C3058
 zone C3082-C3082
 zone C3084-C3086
 zone C3089-C3089
+fit

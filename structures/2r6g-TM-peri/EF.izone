@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone E1-E3
 zone E6-E6
 zone E8-E8
@@ -47,3 +48,4 @@ zone F1135-F1142
 zone F1145-F1146
 zone F1156-F1157
 zone F1229-F1263
+fit

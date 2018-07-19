@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A784-A784
 zone A788-A788
 zone A792-A792
@@ -12,3 +13,4 @@ zone A1008-A1008
 zone A1014-A1017
 zone A1019-A1021
 zone B31-B61
+fit

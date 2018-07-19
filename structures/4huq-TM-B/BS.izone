@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone B13-B15
 zone B19-B19
 zone B47-B47
@@ -23,3 +24,4 @@ zone S1155-S1155
 zone S1158-S1174
 zone S1177-S1177
 zone S1210-S1240
+fit

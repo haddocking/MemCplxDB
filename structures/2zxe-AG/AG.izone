@@ -1,3 +1,4 @@
+atoms C,CA,N,O
 zone A346-A346
 zone A353-A353
 zone A817-A817
@@ -16,3 +17,4 @@ zone A931-A931
 zone A949-A977
 zone A979-A989
 zone G16-G42
+fit
