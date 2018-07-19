@@ -1,0 +1,4 @@
+atoms C,CA,N,O
+align B*
+fit B*
+rzone C*:A*

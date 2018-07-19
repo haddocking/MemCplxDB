@@ -1,0 +1,5 @@
+atoms C,CA,N,O
+zone A*
+fit
+ignoremissing
+rzone D*

@@ -1,0 +1,4 @@
+atoms C,CA,N,O
+zone C*
+fit
+rzone B*

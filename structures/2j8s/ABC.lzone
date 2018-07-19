@@ -1,0 +1,6 @@
+atoms C,CA,N,O
+zone A*
+fit
+rzone B*
+rzone clear
+rzone C*
