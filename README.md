@@ -75,7 +75,7 @@ The two subfolders in the [analysis](analysis) folder contain the results of the
 runs for two docking scenarios. One using only random restraints to drive the docking
 ([random_restraints](analysis/random_restraints)) and one using restraints derived from
 the interface of the bound complex ([true_interface](analysis/true_interface)). Both folders
-contain 38 space-separated text files that are the results of the analysis of the docking
+contain 37 space-separated text files that are the results of the analysis of the docking
 run of a given complex.
 
 ## Benchmark entries
@@ -144,9 +144,8 @@ and Hard cases having an I-RMSD greater than 2Å.
 
 | complex | complex_pdb_id | Unbound PDB id 1 | Unbound PDB id 2 | Unbound PDB id 3 | Category | Composition |  Difficulty  | Interface RMSD [Å] |
 | ------: | -------------- | ---------------- | ---------------- | ---------------- | -------- | ----------- |  ----------  | -----------------: |
-| 1       | 1yew           | 1yew_ABC         | 1yew_EFG         | 1yew_IJK         | Both     | BBB         | Bound        | 0                  |
-| 2       | 2j8s           | 3w9h_A           | 3w9h_B           | 3w9h_C           | Both     | UUU         | Easy         | 0.648              |
-| 3       | 4fz0           | 2qts_A           | 2qts_B           | 2qts_C           | Both     | UUU         | Intermediate | 1.18               |
+| 1       | 2j8s           | 3w9h_A           | 3w9h_B           | 3w9h_C           | Both     | UUU         | Easy         | 0.648              |
+| 2       | 4fz0           | 2qts_A           | 2qts_B           | 2qts_C           | Both     | UUU         | Intermediate | 1.18               |
 
 ## Analysis
 
@@ -169,17 +168,16 @@ The following is an example of the results of the analysis for dimeric complex.
 
 and for a trimeric one
 
-    $ head 1yew.txt
     complex i-RMSD l-RMSD l-RMSD-sd HS Eair Evdw Eelec Edesolv BSA stage pdb rank difficulty
-    1 47.181 111.0095 8.1835 1308389.30183 104437 1.307364E+08 -4.36689 6.46062 4148.24 it0 1yew 9982 Bound
-    2 37.552 58.147 10.517 240.11322 31345.3 161.56 -18.0547 -38.6551 2591.7 it0 1yew 1310 Bound
-    3 46.250 97.094 10.322 927.84606 89389.3 232.796 -10.6012 56.4348 2445.66 it0 1yew 9131 Bound
-    4 33.137 62.219 1.232 609.4919 62606.7 169.493 -17.7243 21.442 2852.63 it0 1yew 6853 Bound
-    5 40.528 65.0125 10.6965 196.86294 25526.1 168.981 41.8323 -60.7825 4769.24 it0 1yew 719 Bound
-    6 27.851 56.934 5.089 256.31249 32141.3 246.069 22.0599 -58.3987 3754 it0 1yew 1580 Bound
-    7 14.510 28.0225 1.1935 363.82806 38853.1 264.328 -19.985 11.0048 2489.77 it0 1yew 3306 Bound
-    8 45.160 96.816 0.443 776.754249 80299.6 259.705 7.15241 -0.154341 4390.82 it0 1yew 8150 Bound
-    9 15.082 33.152 1.439 329.98304 32764.5 265.87 -5.61581 29.7018 2997.73 it0 1yew 2803 Bound
+    1 46.268 75.6035 1.8335 1790.72757 102074 718.818 -13.7373 7.13569 1901.6 it0 4fz0 8305 Intermediate
+    2 33.500 51.8455 1.1275 401.32159 38540.4 248.141 -9.81252 -51.7452 3421.41 it0 4fz0 393 Intermediate
+    3 36.232 58.523 17.595 673.51548 50304 375.559 53.4633 5.52919 3188.66 it0 4fz0 3527 Intermediate
+    4 47.686 62.758 6.711 636.45832 53861.1 356.872 -10.6338 31.3379 3474.35 it0 4fz0 3109 Intermediate
+    5 53.633 89.111 14.586 1552.34581 117606 412.29 -7.01079 6.8906 1238.89 it0 4fz0 7804 Intermediate
+    6 18.942 41.166 0.153 663.585429 53746.8 388.635 12.9086 -0.648221 2777.93 it0 4fz0 3401 Intermediate
+    7 38.178 61.3475 1.0615 579.84936 46221.8 172.666 42.2576 15.0654 3910.15 it0 4fz0 2494 Intermediate
+    8 34.095 62.5555 16.3635 833.98877 66967.1 250.811 5.05806 34.3765 3304.69 it0 4fz0 5141 Intermediate
+    9 49.997 91.598 8.271 2210.46723 89319.8 419.985 -7.88672 -13.6433 2024.06 it0 4fz0 8940 Intermediate
 
 ### HADDOCK terms
 
