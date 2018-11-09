@@ -11,6 +11,7 @@ Table of Contents
   * [HADDOCK terms](#haddock-terms)
   * [RMSD terms](#rmsd-terms)
   * [ProFit Instructions](#profit-instructions)
+* [Reference](#reference)
 
 ## Introduction
 
@@ -275,3 +276,9 @@ Which should print:
 In this case two RMSD values are calculated and printed to the terminal. The first is the RMSD
 of the backbone atoms of the receptor (in this case chain A). The second is the L-RMSD value.
 In this case it is 0 as chain B has been extracted from the bound complex for case `1m56`.
+
+## Reference
+
+When using this membrane complexes benchmark in any publication, please cite:
+
+* P.I. Koukos, I. Faro, C.W. van Noort and A.M.J.J. Bonvin. [A membrane protein complex docking benchmark](https://doi.org/10.1016/j.jmb.2018.11.005). _J. Mol. Biol._ Advanced Online Publication (2018).
