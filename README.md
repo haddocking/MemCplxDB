@@ -1,6 +1,6 @@
 # MemCplxDB
 
-[![DOI](https://zenodo.org/badge/42519910.svg)](https://zenodo.org/badge/latestdoi/42519910)
+[![DOI](https://zenodo.org/badge/141016280.svg)](https://zenodo.org/badge/latestdoi/141016280)
 
 Table of Contents
 
