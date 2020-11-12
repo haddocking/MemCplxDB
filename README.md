@@ -1,5 +1,7 @@
 # MemCplxDB
 
+[![DOI](https://zenodo.org/badge/42519910.svg)](https://zenodo.org/badge/latestdoi/42519910)
+
 Table of Contents
 
 * [Introduction](#introduction)
