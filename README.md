@@ -19,7 +19,7 @@ Table of Contents
 
 Membrane protein complexes docking benchmark. This repository contains the
 entries of the Membrane Protein docking benchmark (V1.0). It also contains
-[ProFit](http://www.bioinf.org.uk/programs/profit/) analysis scripts for
+[ProFit](http://www.bioinf.org.uk/software/profit/) analysis scripts for
 the calculation of Interface- and Ligand-RMSD (I-/L-RMSD) values for all
 the entries of the benchmark. We have generated docking decoys for all the
 entries of the benchmark with the [HADDOCK](http://milou.science.uu.nl/services/HADDOCK2.2/)
