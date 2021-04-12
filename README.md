@@ -12,7 +12,6 @@ Table of Contents
 * [Analysis](#analysis)
   * [HADDOCK terms](#haddock-terms)
   * [RMSD terms](#rmsd-terms)
-  * [ProFit Instructions](#profit-instructions)
 * [Reference](#reference)
 
 ## Introduction
@@ -71,8 +70,8 @@ the following files:
 * `*_unbound_*.pdb`-> The unbound structures for a given complex.
 * `*_unbound.pdb` -> The unbound structures optimally and independently superimposed on the reference chains.
 * `*.irmsd` -> The backbond I-RMSD (in Å) of the unbound complex relative to the reference structure.
-* `*.izone` -> [ProFit](http://www.bioinf.org.uk/programs/profit/)-compatible I-RMSD calculation script.
-* `*.lzone` -> [ProFit](http://www.bioinf.org.uk/programs/profit/)-compatible L-RMSD calculation script.
+* `*.izone` -> [ProFit](http://www.bioinf.org.uk/software/profit/)-compatible I-RMSD calculation script.
+* `*.lzone` -> [ProFit](http://www.bioinf.org.uk/software/profit/)-compatible L-RMSD calculation script.
 
 The two subfolders in the [analysis](analysis) folder contain the results of the docking
 runs for two docking scenarios. One using only random restraints to drive the docking
@@ -152,7 +151,7 @@ and Hard cases having an I-RMSD greater than 2Å.
 
 ## Analysis
 
-All the RMSD values have been calculated with [ProFit](http://www.bioinf.org.uk/programs/profit/) and
+All the RMSD values have been calculated with [ProFit](http://www.bioinf.org.uk/software/profit/) and
 all energy values along with Surface area by [HADDOCK](http://milou.science.uu.nl/services/HADDOCK2.2/).
 
 The following is an example of the results of the analysis for dimeric complex.
